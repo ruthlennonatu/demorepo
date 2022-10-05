@@ -1,3 +1,3 @@
 #Demo of GitHub
 
-Demo by Ruth
+Demo by Ruth Lennon
